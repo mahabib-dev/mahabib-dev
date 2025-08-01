@@ -24,7 +24,7 @@ Feel free to check out my repositories, connect with me, or reach out for collab
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/> PHP / MySQL<br>
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/> Responsive Web Design<br>
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/> WordPress Theme Customization<br>
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/> Elementor
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/> Elementor <br>
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/> Plugin integration & E-commerce (WooCommerce)<br>
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/>  Photoshop / Illustrator <br>
 
@@ -63,7 +63,8 @@ Feel free to check out my repositories, connect with me, or reach out for collab
 
 ---
 
-## https://www.google.com/imgres?q=khata%20with%20pen%20image&imgurl=https%3A%2F%2Feasykhata.in%2Fresources%2Fimages%2Fslider%2Fslider-1.png&imgrefurl=https%3A%2F%2Feasykhata.in%2F&docid=sx2agCGHx1jOQM&tbnid=U8_tpX5dDN_N6M&vet=12ahUKEwi0yI-Ul-qOAxWwafUHHVnBD84QM3oFCIQBEAA..i&w=522&h=355&hcb=2&ved=2ahUKEwi0yI-Ul-qOAxWwafUHHVnBD84QM3oFCIQBEAA Currently Learning
+## <img width="463" height="302" alt="image" src="https://github.com/user-attachments/assets/09b2aed0-8c8a-4f73-b471-0f2eb9402649" />
+ Currently Learning
 
 - React.js
 - Tailwind CSS

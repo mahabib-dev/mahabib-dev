@@ -6,8 +6,6 @@ I'm Ahasan Habib, a dedicated and detail-oriented Web Designer & Developer with 
 
 I specialize in HTML, CSS, JavaScript, MySQL, PHP, and WordPress, with deep knowledge of responsive design, SEO-friendly structure, and cross-browser compatibility. From static websites to dynamic WordPress themes and WooCommerce shops, I develop solutions that are both visually appealing and functionally powerful.
 
-I'm continuously learning and exploring new technologies to stay ahead in the ever-evolving digital world. Whether it's collaborating on open-source projects or building full-stack websites for clients, I take pride in delivering quality results on time.
-
 Feel free to check out my repositories, connect with me or reach out for collaboration. Let’s create impactful digital experiences together!
 
 Skills: HTML5/CSS3/JavaScript/MySQL/PHP/WordPress 

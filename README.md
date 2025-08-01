@@ -1,9 +1,9 @@
 ![Web Designer & Developer](https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/469917008_122146438640341850_1980144815294014992_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=b58gyeJrDRIQ7kNvwGKx8Mb&_nc_oc=AdlLnRmMlLuqhVzRbTCi5eY_WBld0Xl7CYt4HDlS_UsnxPAFTAeLHiFuak7N6LHVzWI&_nc_zt=23&_nc_ht=scontent.fdac5-2.fna&_nc_gid=FyVpLpjIh33omE5Vv2hr-g&oh=00_AfQhTXcCxKAoGQVTh-lKI8J2uomzuDzggLRLCRLDPt5Nxw&oe=6892A1B7)
-  <h1 align="center"> 👋, I'm Ahasan Habib</h1>
+  <h1 align="center"> 👋 Ahasan Habib</h1>
 <h3 align="center">Expert Web Designer and Developer | WordPress Specialist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0eb6&style=flat" alt="profile views" />
 </p>
 
 

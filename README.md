@@ -8,8 +8,16 @@ I specialize in HTML, CSS, JavaScript, MySQL, PHP, and WordPress, with deep know
 
 Feel free to check out my repositories, connect with me or reach out for collaboration. Let’s create impactful digital experiences together!
 
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee" />
-Skills: HTML5/CSS3/JavaScript/MySQL/PHP/WordPress 
+
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/6ae63e66-8b3a-49a4-b4dd-3d1158edd484" />
+Skills and Experience:
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/>HTML5/CSS3/Bootstrap <br>
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/>PHP <br>
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/>MySQL <br>
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/>JavaScript <br>
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/>WordPress <br>
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/>Photoshop / Illustrator <br>
+
 
 - 🔭 I’m currently working on Web Designer & Developer  
 - 🌱 I’m currently learning Upcomming Modern Web Technologies 

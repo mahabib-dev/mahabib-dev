@@ -8,6 +8,7 @@ I specialize in HTML, CSS, JavaScript, MySQL, PHP, and WordPress, with deep know
 
 Feel free to check out my repositories, connect with me or reach out for collaboration. Let’s create impactful digital experiences together!
 
+<img width="249" height="276" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee" />
 Skills: HTML5/CSS3/JavaScript/MySQL/PHP/WordPress 
 
 - 🔭 I’m currently working on Web Designer & Developer  

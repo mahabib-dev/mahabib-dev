@@ -1,5 +1,5 @@
-![Web Designer & Developer](https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/469917008_122146438640341850_1980144815294014992_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=b58gyeJrDRIQ7kNvwGKx8Mb&_nc_oc=AdlLnRmMlLuqhVzRbTCi5eY_WBld0Xl7CYt4HDlS_UsnxPAFTAeLHiFuak7N6LHVzWI&_nc_zt=23&_nc_ht=scontent.fdac5-2.fna&_nc_gid=FyVpLpjIh33omE5Vv2hr-g&oh=00_AfQhTXcCxKAoGQVTh-lKI8J2uomzuDzggLRLCRLDPt5Nxw&oe=6892A1B7)
-<img width="704" height="263" alt="image" src="https://github.com/user-attachments/assets/2d36e3d3-4e23-44cb-b47f-41c4a345043b" />
+<img width="850" height="261" alt="image" src="https://github.com/user-attachments/assets/0eb8ddbf-8362-4462-b9b1-7c9ae8dd1da7" />
+
 
   <h1 align="center"> 👋 Ahasan Habib</h1>
 <h3 align="center">Expert Web Designer and Developer | WordPress Specialist</h3>

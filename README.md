@@ -39,7 +39,7 @@ Feel free to check out my repositories, connect with me, or reach out for collab
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourusername)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahabib9905@gmail.com)
 
 ---
 
@@ -63,7 +63,7 @@ Feel free to check out my repositories, connect with me, or reach out for collab
 
 ---
 
-## 🧠 Currently Learning
+## https://www.google.com/imgres?q=khata%20with%20pen%20image&imgurl=https%3A%2F%2Feasykhata.in%2Fresources%2Fimages%2Fslider%2Fslider-1.png&imgrefurl=https%3A%2F%2Feasykhata.in%2F&docid=sx2agCGHx1jOQM&tbnid=U8_tpX5dDN_N6M&vet=12ahUKEwi0yI-Ul-qOAxWwafUHHVnBD84QM3oFCIQBEAA..i&w=522&h=355&hcb=2&ved=2ahUKEwi0yI-Ul-qOAxWwafUHHVnBD84QM3oFCIQBEAA Currently Learning
 
 - React.js
 - Tailwind CSS

@@ -3,8 +3,11 @@
 <h3 align="center">Expert Web Designer and Developer | WordPress Specialist</h3>
 
 <p align="center">
-  <img src="https://github.com/mahabib-dev/" alt="profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
+ <img src="[https://komarev.com/ghpvc/](https://github.com/mahabib-dev/)?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+
 
 ---
 
@@ -15,15 +18,15 @@ I specialize in HTML, CSS, JavaScript, PHP, and WordPress, with deep knowledge o
 I'm continuously learning and exploring new technologies to stay ahead in the ever-evolving digital world. Whether it's collaborating on open-source projects or building full-stack websites for clients, I take pride in delivering quality results on time.
 Feel free to check out my repositories, connect with me, or reach out for collaboration. Let’s create impactful digital experiences together!
 
-🔧 I Specialize In:
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/> HTML / CSS / Bootstrap
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/> JavaScript
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/> PHP / MySQL
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/> Responsive Web Design
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/> WordPress Theme Customization
+🔧 I Specialize In:<br>
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/> HTML / CSS / Bootstrap <br>
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/> JavaScript<br>
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/> PHP / MySQL<br>
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/> Responsive Web Design<br>
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/> WordPress Theme Customization<br>
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/> Elementor
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/> Plugin integration & E-commerce (WooCommerce)
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/> Client-focused and pixel-perfect solutions
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/> Plugin integration & E-commerce (WooCommerce)<br>
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/>  Photoshop / Illustrator <br>
 
 🎯 My goal is **client satisfaction** with clean, fast, and functional websites that solve real problems.
 

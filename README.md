@@ -10,10 +10,10 @@
 
 ## 🌐 About Me
 
-I'm Ahasan Habib, a dedicated and detail-oriented Web Designer & Developer with a strong passion for creating modern, user-focused websites and web applications. With several years of experience in front-end and back-end development, I bring creative ideas to life using clean code and smart design principles.
-I specialize in HTML, CSS, JavaScript, PHP, and WordPress, with deep knowledge of responsive design, SEO-friendly structure, and cross-browser compatibility. From static websites to dynamic WordPress themes and WooCommerce shops, I develop solutions that are both visually appealing and functionally powerful.
-I'm continuously learning and exploring new technologies to stay ahead in the ever-evolving digital world. Whether it's collaborating on open-source projects or building full-stack websites for clients, I take pride in delivering quality results on time.
-Feel free to check out my repositories, connect with me, or reach out for collaboration. Let’s create impactful digital experiences together!
+I'm Ahasan Habib, a dedicated and detail-oriented Web Designer & Developer with a strong passion for creating modern, user-focused websites and web applications. With several years of experience in front-end and back-end development, I bring creative ideas to life using clean code and smart design principles.<br>
+I specialize in HTML, CSS, JavaScript, PHP, and WordPress, with deep knowledge of responsive design, SEO-friendly structure, and cross-browser compatibility. From static websites to dynamic WordPress themes and WooCommerce shops, I develop solutions that are both visually appealing and functionally powerful.<br>
+I'm continuously learning and exploring new technologies to stay ahead in the ever-evolving digital world. Whether it's collaborating on open-source projects or building full-stack websites for clients, I take pride in delivering quality results on time.<br>
+Feel free to check out my repositories, connect with me, or reach out for collaboration. Let’s create impactful digital experiences together!<br>
 
 ## <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/2112b058-b0da-43ed-a7b5-50f876a8a0bf" />  I Specialize In:<br>
 

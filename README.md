@@ -16,6 +16,7 @@ Skills and Experience:<br>
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/> Photoshop / Illustrator <br>
 
 ✅ Contact & Social Links: 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/yourusername](https://www.facebook.com/ahasanhabib.it.dhaka))
 
 🌐 Website
 

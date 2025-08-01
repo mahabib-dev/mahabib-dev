@@ -16,7 +16,8 @@ I specialize in HTML, CSS, JavaScript, PHP, and WordPress, with deep knowledge o
 I'm continuously learning and exploring new technologies to stay ahead in the ever-evolving digital world. Whether it's collaborating on open-source projects or building full-stack websites for clients, I take pride in delivering quality results on time.
 Feel free to check out my repositories, connect with me, or reach out for collaboration. Let’s create impactful digital experiences together!
 
-## 🔧 I Specialize In:<br>
+## <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/2112b058-b0da-43ed-a7b5-50f876a8a0bf" />  I Specialize In:<br>
+
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/> HTML / CSS / Bootstrap <br>
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/> JavaScript<br>
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/76d52626-40ec-406e-a6b3-5ebd6a2799ee"/> PHP / MySQL<br>
@@ -61,7 +62,7 @@ Feel free to check out my repositories, connect with me, or reach out for collab
 
 ---
 
-## <img width="30" height="20" alt="image" src="https://github.com/user-attachments/assets/09b2aed0-8c8a-4f73-b471-0f2eb9402649" />  Currently Learning
+## <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/09b2aed0-8c8a-4f73-b471-0f2eb9402649" />  Currently Learning
 
 - React.js
 - Tailwind CSS

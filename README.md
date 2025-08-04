@@ -4,10 +4,8 @@
   <h1 align="center"> 👋 Ahasan Habib</h1>
 <h3 align="center">Expert Web Designer and Developer | WordPress Specialist</h3>
 
-
-![Profile views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat)
 ## 👀 Profile Visitors
-![Profile views](https://komarev.com/ghpvc/?username=ahasanhabib&label=Profile%20views&color=blue&style=plastic)
+![Profile Views](https://komarev.com/ghpvc/?username=ahasanhabib&label=Profile%20views&color=blue&style=plastic)
 
 
 

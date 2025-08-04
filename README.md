@@ -5,6 +5,9 @@
 <h3 align="center">Expert Web Designer and Developer | WordPress Specialist</h3>
 
 
+![Profile views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat)
+
+
 
 ---
 
